@@ -1,4 +1,4 @@
-# OS-EX.11-IMPLEMENTATION-OF-DISK-SCHEDULING-ALGORITHMS
+![image](https://github.com/RoobeshRaoED/OS-EX.11-IMPLEMENTATION-OF-DISK-SCHEDULING-ALGORITHMS/assets/118746992/533fa749-d36c-460d-9557-8c810b3e6d8f)# OS-EX.11-IMPLEMENTATION-OF-DISK-SCHEDULING-ALGORITHMS
 
 ## DISK SCHEDULING FIRST COME FIRST SERVE 
 
@@ -72,10 +72,6 @@ for(i=0;i<n;i++)
 {
 d=abs(RQ[i]-initial);
 if(min>d)
-Date:
- DISK SCHEDULING SHORTEST SEEK
- TIME FIRST
-Ex.No: 5(b)
 {
 min=d;
 index=i;
@@ -122,9 +118,6 @@ scanf("%d",&RQ[i]);
 printf("Enter initial head position\n");
 scanf("%d",&initial);
 printf("Enter total disk size\n");
-DATE :
-DISK SCHEDULING
-SCANEx.No : 5(c)
 scanf("%d",&size);
 printf("Enter the head movement direction for high 1 and for low 0\n");
 scanf("%d",&move);
@@ -222,9 +215,6 @@ printf("Enter the head movement direction for high 1 and for low 0\n");
 scanf("%d",&move);
 for(i=0;i<n;i++)
 {
-DATE :
-DISK SCHEDULING
-LOOKEx.No :5(d)
 for(j=0;j<n-i-1;j++)
 {
 if(RQ[j]>RQ[j+1])
