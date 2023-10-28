@@ -36,7 +36,7 @@ return 0;
 
 ## OUTPUT:
 
-![]()
+![](11.1.png)
 
 ## RESULT:
 
@@ -90,7 +90,7 @@ return 0;
 
 ## OUTPUT:
 
-![]()
+![](11.2.png)
 
 ## RESULT:
 
@@ -183,7 +183,7 @@ return 0;
 
 ## OUTPUT:
 
-![]()
+![](11.3.png)
 
 ## RESULT:
 
@@ -271,7 +271,7 @@ return 0;
 
 ## OUTPUT:
 
-![]()
+![](11.4.png)
 
 ## RESULT:
 
