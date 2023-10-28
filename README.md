@@ -44,11 +44,12 @@ Thus the implementation of the program for first come first serve disc schedulin
 successfully executed.
 
 
+
 ## DISK SCHEDULING SHORTEST SEEK TIME FIRST  
 
 ## AIM:
 
-To write a program for the first come first serve method of disc scheduling. 
+To write a program for the shortest seek time first method of disc scheduling. 
 
 ## PROGRAM:
 
@@ -96,11 +97,12 @@ return 0;
 Thus the implementation of the program for shortest seek time first disc scheduling has been successfully executed. 
 
 
+
 ## DISK SCHEDULING SCAN 
 
 ## AIM:
 
-To write a program for the first come first serve method of disc scheduling. 
+To write a program for the scan method of disc scheduling. 
 
 ## PROGRAM:
 
@@ -188,11 +190,12 @@ return 0;
 Thus the implementation of the program for SCAN disc scheduling has been successfully executed. 
 
 
+
 ## DISK SCHEDULING LOOK 
 
 ## AIM:
 
-To write a program for the first come first serve method of disc scheduling. 
+To write a program for the look method of disc scheduling. 
 
 ## PROGRAM:
 
